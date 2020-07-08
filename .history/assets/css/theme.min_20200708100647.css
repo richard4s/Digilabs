@@ -3664,7 +3664,7 @@ ul.pagination .page-numbers.current { color: #16171e; }
 /* 3.42. Masked Image */
 .ld-masked-image svg { width: 100%; height: 100%; position: absolute; top: 0; left: 0; -o-object-fit: cover; object-fit: cover; }
 .ld-masked-image svg defs, .ld-masked-image svg clipPath, .ld-masked-image svg path { width: 100%; height: 100%; position: absolute; top: 0; left: 0; }
-.ld-masked-image figure { background-position: -79% -322%; background-size: 95%; }
+.ld-masked-image figure { background-position: -79% -292%; background-size: 95%; }
 .ld-masked-image img { width: 100%; height: auto; visibility: hidden; }
 
 @media (min-width: 768px) { .ld-masked-image { position: absolute; right: -90vw; left: 42vw; } }
